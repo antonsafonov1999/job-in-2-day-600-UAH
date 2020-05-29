@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourceWork", "CourceWork\CourceWork.csproj", "{E6E8D363-4F9E-418B-A9AC-4433D470D4B0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3BC79704-33C2-4CE1-90B3-03C7C97A4E2B}"
+	ProjectSection(SolutionItems) = preProject
+		CourceWork\ClassDataBase.cs = CourceWork\ClassDataBase.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6E8D363-4F9E-418B-A9AC-4433D470D4B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6E8D363-4F9E-418B-A9AC-4433D470D4B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6E8D363-4F9E-418B-A9AC-4433D470D4B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6E8D363-4F9E-418B-A9AC-4433D470D4B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70B555E9-18B0-4D7B-A287-6AB7E1B52679}
+	EndGlobalSection
+EndGlobal
